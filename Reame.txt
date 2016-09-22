@@ -1,0 +1,5 @@
+This is a Git set up on Linux & Mac
+
+i) iIt should contain Tex files for YSKGP Manuscript
+
+
